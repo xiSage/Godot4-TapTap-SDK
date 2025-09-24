@@ -9,7 +9,7 @@
 * 激励广告
 _________________
 ## 安装方法
-1. 复制项目本目录下plugin\demo\addons\GodotTapTapSDK文件内全部内容到你的add项目中或者自行编译整个项目。
+1. 下载release中发布的文件并在 Godot 编辑器通过`资产库 -> 导入`安装或者自行编译整个项目。
    编译命令：./gradlew assemble，编译后的所有东西都在plugin\demo\addons\GodotTapTapSDK
 2. 打开项目设置-插件-启用GodotTapTapSDK。
 3. 项目导出时在**自定义构建** 中勾选启动。
